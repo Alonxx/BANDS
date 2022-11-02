@@ -1,11 +1,8 @@
 #  BANDS
 
-Get information about your favorite bands with BANDA
+Get information about your favorite bands with BANDS
 
 
- 
-### Try online 🌐
- <a href="https://www.alonsodiaz.dev/Wordle">www.alonsodiaz.dev/Bands<a>
 ### Installation 💻
 
 ### Technologies used 🔥
