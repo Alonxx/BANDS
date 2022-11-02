@@ -1,6 +1,6 @@
 #  BANDS
 
-Get information about your favorite bands with BANDA
+Get information about your favorite bands with BANDS
 
 
 ### Installation 💻
